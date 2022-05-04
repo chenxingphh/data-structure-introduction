@@ -2,7 +2,7 @@
 数据结构简介和常见的排序算法
 
 * 数据结构
-  - [链表（Linked List）](https://github.com/whyAndBetter/data-structure-introduction/blob/main/02-%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.ipynb#链表（Linked List）)
+  - [链表（Linked List）](https://github.com/whyAndBetter/data-structure-introduction/blob/main/02-%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.ipynb# 链表（Linked List）)
     - 单向链表
     - 双向链表
     - 循环链表
