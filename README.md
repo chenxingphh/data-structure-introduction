@@ -1,7 +1,7 @@
 # data-structure-introduction
 数据结构简介和常见的排序算法
 
-* [数据结构](https://github.com/whyAndBetter/data-structure-introduction/blob/main/01-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AE%80%E4%BB%8B.ipynb)
+* [数据结构](https://github.com/chenxingphh/data-structure-introduction/blob/main/01-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AE%80%E4%BB%8B.ipynb)
   - 链表（Linked List）
     - 单向链表
     - 双向链表
@@ -31,7 +31,7 @@
     - 最小生成树
       - Prim算法
 
-* [排序算法](https://github.com/whyAndBetter/data-structure-introduction/blob/main/02-%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.ipynb)
+* [排序算法](https://github.com/chenxingphh/data-structure-introduction/blob/main/02-%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.ipynb)
   - 交换排序
     - 冒泡排序
     - 快速排序
